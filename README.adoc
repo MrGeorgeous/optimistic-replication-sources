@@ -20,7 +20,13 @@ toc::[]
 
 == Operational Transformations
 
+==== Introduction
+
 . link:https://habr.com/ru/post/416961/[Антон Загорский. Автоматическое разрешение конфликтов с помощью операциональных преобразований]
+
+==== Research
+
+. link:https://dl.acm.org/doi/10.1145/67544.66963[Ellis & Gibbs (1987). Concurrency control in groupware systems]
 
 == CRDT
 
