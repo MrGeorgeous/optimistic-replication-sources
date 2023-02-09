@@ -1,0 +1,40 @@
+= Optimistic Replication
+ifdef::env-github[]
+:imagesdir:
+ https://raw.githubusercontent.com/MrGeorgeous/optimistic-replication-sources/main/images
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+ifndef::env-github[]
+:imagesdir: ./
+endif::[]
+:toc:
+:toc-placement!:
+
+This repository contains bibliography I find useful for my own research purposes.
+
+toc::[]
+
+== Operational Transformations
+
+. link:https://habr.com/ru/post/416961/[Антон Загорский. Автоматическое разрешение конфликтов с помощью операциональных преобразований]
+
+== CRDT
+
+. link:https://habr.com/ru/post/418897/[Антон Загорский. CRDT: Conflict-free Replicated Data Types]
+
+== Patch Theory
+
+. link:https://pijul.org/manual/theory.html[The Pijul Manual. Patch theory]
+. link:https://en.wikibooks.org/wiki/Understanding_Darcs/Patch_theory[Darcs Wiki. Patch theory] Introduction, string sequence three-way merge examples
+. link:https://www.sciencedirect.com/science/article/pii/S1571066113000649[Mimram & Di Giusto. A Categorical Theory of Patches]
+. Blog of Brent Yourgey (2008):
+.. link:https://byorgey.wordpress.com/2008/02/04/gobby-haskell-and-patch-theory/[Gobby, Haskell, and patch theory]
+.. link:https://byorgey.wordpress.com/2008/02/07/patch-theory-thoughts-part-i/[Patch theory thoughts, part I]
+.. link:https://byorgey.wordpress.com/2008/02/13/patch-theory-part-ii-some-basics/[Patch theory, part II: some basics]
+. other references:
+.. link:https://www.cs.cmu.edu/~cangiuli/papers/hpt-expanded.pdf[Carlo Angiuli et al. Homotopical Patch Theory]
+.. link:https://bora.uib.no/bora-xmlui/handle/11250/3001129[Kløvstad. A Cubical Implementation of Homotopical Patch Theory]
