@@ -26,6 +26,10 @@ toc::[]
 
 . link:https://habr.com/ru/post/418897/[Антон Загорский. CRDT: Conflict-free Replicated Data Types]
 
+==== Implementations
+
+. link:https://github.com/automerge/automerge[JSON as CRDT]
+
 == Patch Theory
 
 . link:https://pijul.org/manual/theory.html[The Pijul Manual. Patch theory]
