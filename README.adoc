@@ -18,6 +18,10 @@ This repository contains bibliography I find useful for my own research purposes
 
 toc::[]
 
+== Optimistic replication technique
+
+. link:https://www.researchgate.net/publication/268292876_Replication_Management_and_Optimistic_Replication_Challenges_in_Mobile_Environment[Sharma, Archana & Kansal, Dr. Replication Management and Optimistic Replication Challenges in Mobile Environment]
+
 == Operational Transformations
 
 ==== Introduction
