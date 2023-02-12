@@ -20,7 +20,20 @@ toc::[]
 
 == Optimistic replication technique
 
+==== Introduction
+. link:https://en.wikipedia.org/wiki/Optimistic_replication[Wikipedia. Optimistic replication]
+
+==== Data synchronization
+
+. link:https://en.wikipedia.org/wiki/Data_synchronization[Wikipedia. Data synchronization]
+
+==== Applications
 . link:https://www.researchgate.net/publication/268292876_Replication_Management_and_Optimistic_Replication_Challenges_in_Mobile_Environment[Sharma, Archana & Kansal, Dr. Replication Management and Optimistic Replication Challenges in Mobile Environment]
+
+== Conflict resolution
+
+.link:https://en.wikipedia.org/wiki/Thomas_write_rule[Wikipedia. Thomas write rule]
+.link:https://en.wikipedia.org/wiki/Vector_clock[Wikipedia. Vector clock]
 
 == Operational Transformations
 
@@ -34,7 +47,13 @@ toc::[]
 
 == CRDT
 
+. link:https://jug.ru/talks/jpoint-2017/crdt-conflict-free-synchronization-in-distributed-systems/[JPoint 2017. CRDT Synchronization]
 . link:https://habr.com/ru/post/418897/[Антон Загорский. CRDT: Conflict-free Replicated Data Types]
+. link:https://www.baeldung.com/java-conflict-free-replicated-data-types[Baeldung. CRDTs in Java]
+
+==== Problem Discussion
+
+. link:https://news.ycombinator.com/item?id=28717848[]
 
 ==== Implementations
 
