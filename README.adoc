@@ -57,6 +57,8 @@ toc::[]
 
 == CRDT
 
+See link:https://crdt.tech/papers.html[official publication list]
+
 . link:https://jug.ru/talks/jpoint-2017/crdt-conflict-free-synchronization-in-distributed-systems/[JPoint 2017. CRDT Synchronization]
 . link:https://habr.com/ru/post/418897/[Антон Загорский. CRDT: Conflict-free Replicated Data Types]
 . link:https://www.baeldung.com/java-conflict-free-replicated-data-types[Baeldung. CRDTs in Java]
