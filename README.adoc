@@ -23,17 +23,27 @@ toc::[]
 ==== Introduction
 . link:https://en.wikipedia.org/wiki/Optimistic_replication[Wikipedia. Optimistic replication]
 
-==== Data synchronization
+== Data synchronization
+
+==== Introduction
 
 . link:https://en.wikipedia.org/wiki/Data_synchronization[Wikipedia. Data synchronization]
+
+==== Applications
+
+. link:https://link.springer.com/chapter/10.1007/978-3-031-17629-6_42[(2023) Prioritization of Industry 4.0 Technologies Based on Diagnosis and Performance Indicators Associated with Lean Manufacturing Under Interoperability Requirements]
+
+. link:https://link.springer.com/chapter/10.1007/978-3-031-18318-8_30[(2023) Multivariate Synchronization of NC Process Data Sets Based on Dynamic Time Warping]
+
+. link:https://www.sciencedirect.com/science/article/pii/S1389128623000051[(2023) DynGATT: A dynamic GATT-based data synchronization protocol for BLE networks]
 
 ==== Applications
 . link:https://www.researchgate.net/publication/268292876_Replication_Management_and_Optimistic_Replication_Challenges_in_Mobile_Environment[Sharma, Archana & Kansal, Dr. Replication Management and Optimistic Replication Challenges in Mobile Environment]
 
 == Conflict resolution
 
-.link:https://en.wikipedia.org/wiki/Thomas_write_rule[Wikipedia. Thomas write rule]
-.link:https://en.wikipedia.org/wiki/Vector_clock[Wikipedia. Vector clock]
+. link:https://en.wikipedia.org/wiki/Thomas_write_rule[Wikipedia. Thomas write rule]
+. link:https://en.wikipedia.org/wiki/Vector_clock[Wikipedia. Vector clock]
 
 == Operational Transformations
 
