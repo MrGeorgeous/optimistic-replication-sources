@@ -22,6 +22,8 @@ toc::[]
 
 ==== Introduction
 . link:https://en.wikipedia.org/wiki/Optimistic_replication[Wikipedia. Optimistic replication]
+. link:https://hal.inria.fr/hal-01248208/document[Yasushi Saito, Marc Shapiro. Optimistic Replication]
+. link:https://www.hpl.hp.com/techreports/2002/HPL-2002-33.pdf[Yasushi Saito, Marc Shapiro. Replication: Optimistic Approaches]
 
 == Data synchronization
 
